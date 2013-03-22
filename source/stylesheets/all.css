@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+body {
+  background-color: #f5f5f5;
+}
+.container {
+  width: 250px;
+  overflow: hidden;
+}
+.container div {
+  overflow: hidden;
+}
+.div1 {
+  background-color: #f5f5aa;
+}
+.div2 {
+  background-color: #f5aaf5;
+}
+.div3 {
+  background-color: #aaf5f5;
+}
+
